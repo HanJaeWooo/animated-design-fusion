@@ -23,7 +23,7 @@ export const BookSection = () => {
       id: 1,
       title: "The Hunger Games",
       series: "The Hunger Games Trilogy",
-      cover: "https://images.unsplash.com/photo-1505063366573-38928ae5567e",
+      cover: "https://i.postimg.cc/YS7pbd5c/hungergames.jpg",
       description: "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts.",
       fullContent: "The Hunger Games is the first book in the groundbreaking Hunger Games trilogy. In a dark vision of the near future, twelve boys and twelve girls are forced to appear in a live TV show called The Hunger Games. There is only one rule: kill or be killed. When sixteen-year-old Katniss Everdeen steps forward to take her sister's place in the games, she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature."
     },
@@ -31,7 +31,7 @@ export const BookSection = () => {
       id: 2,
       title: "Catching Fire",
       series: "The Hunger Games Trilogy",
-      cover: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+      cover: "https://i.postimg.cc/Jn4RWG7P/catching-fire.jpg",
       description: "Against all odds, Katniss Everdeen has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive.",
       fullContent: "Catching Fire, the second book in the Hunger Games trilogy, continues the story of Katniss Everdeen and her defiance against the Capitol. Fresh from their improbable victory in the annual Hunger Games, Katniss and Peeta get ready to embark on the Victor's Tour of the districts. Along the way, Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games - a competition that could change Panem forever."
     },
@@ -39,7 +39,7 @@ export const BookSection = () => {
       id: 3,
       title: "Mockingjay",
       series: "The Hunger Games Trilogy",
-      cover: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570",
+      cover: "https://i.postimg.cc/25xCJ4Y1/mockingjay.jpg",
       description: "Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. There are rebels. There are new leaders.",
       fullContent: "Mockingjay, the final book in the Hunger Games trilogy, brings the story to its powerful conclusion. Katniss Everdeen has survived the Hunger Games twice, but even now she can find no peace. In the powerful finale to the trilogy, Katniss must put everything on the line to save those she loves and become the Mockingjay - the symbol of rebellion - even if it means giving up everything she holds dear."
     }
