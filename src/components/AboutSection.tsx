@@ -46,7 +46,7 @@ export const AboutSection = () => {
             }`}
           >
             <img
-              src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+              src="https://i.postimg.cc/3WMMWR7M/suzanee.jpg"
               alt="Suzanne Collins"
               className="rounded-lg shadow-xl"
             />
@@ -77,7 +77,7 @@ export const AboutSection = () => {
           </DialogHeader>
           <div className="grid grid-cols-1 gap-6">
             <img 
-              src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c" 
+              src="https://i.postimg.cc/3WMMWR7M/suzanee.jpg" 
               alt="Suzanne Collins"
               className="rounded-lg w-full max-h-[400px] object-cover"
             />
