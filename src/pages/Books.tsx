@@ -24,7 +24,7 @@ const Books = () => {
       id: 1,
       title: "The Hunger Games",
       series: "The Hunger Games Trilogy",
-      cover: "https://imgur.com/a/1OjmN0I",
+      cover: "https://i.postimg.cc/YS7pbd5c/hungergames.jpg",
       description: "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts.",
       content: "The Hunger Games is a compelling story about survival, sacrifice, and the power of one person to inspire change. The novel follows Katniss Everdeen, a 16-year-old girl living in a post-apocalyptic world where children are forced to participate in an annual televised death match."
     },
@@ -32,7 +32,7 @@ const Books = () => {
       id: 2,
       title: "Catching Fire",
       series: "The Hunger Games Trilogy",
-      cover: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+      cover: "https://i.postimg.cc/Jn4RWG7P/catching-fire.jpg",
       description: "Against all odds, Katniss Everdeen has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive.",
       content: "Catching Fire continues the story of Katniss Everdeen and her defiance against the Capitol. As unrest spreads through the districts, Katniss becomes the symbol of rebellion, facing even greater challenges in a special edition of the Hunger Games."
     },
@@ -40,7 +40,7 @@ const Books = () => {
       id: 3,
       title: "Mockingjay",
       series: "The Hunger Games Trilogy",
-      cover: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570",
+      cover: "https://i.postimg.cc/25xCJ4Y1/mockingjay.jpg",
       description: "Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. There are rebels. There are new leaders.",
       content: "Mockingjay brings the trilogy to its powerful conclusion as Katniss takes on the role of the Mockingjay – the symbol of rebellion – in the ultimate fight against the Capitol. This book explores themes of war, propaganda, and the cost of revolution."
     }
